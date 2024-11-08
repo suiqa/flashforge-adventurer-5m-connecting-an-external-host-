@@ -33,7 +33,7 @@
 
 ### Olimex A20 SOM
 Имеет 6 UART интерфейсов, оперативная память 1гб, 2 ядра с частотой 1ГГц.
-![A20-SOM](https://github.com/user-attachments/assets/78e3cd39-f7ee-4b9a-86a7-688f6a2d8d4a)
+![A20-SOM](https://github.com/user-attachments/assets/6875d919-7c54-4452-9b95-624b95c6d314)<br />
 <br />
 <br />
 <br />
